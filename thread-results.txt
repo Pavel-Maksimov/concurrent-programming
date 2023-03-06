@@ -1,0 +1,8 @@
+
+10w = 6 sec
+
+multiprocess = 7 sec
+
+async = 3 sec
+
+sync = 30 sec
